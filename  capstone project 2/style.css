@@ -1,0 +1,32 @@
+.d-block{
+    border-radius: 50%;
+}
+ .skil>img{
+    height:200px;
+    width:200px;
+    float:left;
+ }
+  .container{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .skill{
+    text-align: right;
+  }
+  #grade {
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+.pt{
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,192,29,0.8421743697478992) 11%, rgba(252,176,69,1) 100%);
+  margin-left: 90px;
+  margin-right: 90px;
+}
+#K{
+  background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 82%);
+}
+   
